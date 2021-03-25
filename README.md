@@ -1,3 +1,12 @@
-# learn
-No tak toto je nieco, co si nikdy nikto nevidel...
-ano...
+# learn 
+
+##Toto je o nieco mensie
+
+###A toto este mensie
+
+**toto je zase tucne**
+
+A toto su odrazky:
+*mrkva
+*petrzlen
+*kokolica
