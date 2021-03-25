@@ -1,12 +1,12 @@
-# learn 
+# LEARN 
 
-##Toto je o nieco mensie
+## Toto je o nieco mensie
 
-###A toto este mensie
+### A toto este mensie
 
 **toto je zase tucne**
 
 A toto su odrazky:
-*mrkva
-*petrzlen
-*kokolica
+* mrkva
+* petrzlen
+* kokolica
